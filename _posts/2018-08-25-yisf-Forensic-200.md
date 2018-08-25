@@ -20,3 +20,5 @@ FAT32 파티션을 열어보면 Secret 폴더에 keyfile.jpg 가 있으며, 이�
 실행시켜주면 플래그 Get!
 
 ![](https://raw.githubusercontent.com/h3x0ratkorea/h3x0ratkorea.github.io/master/content/Result....png)
+
+작성자 블로그 원글 : http://kong.re.kr/?p=202
