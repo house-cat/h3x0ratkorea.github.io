@@ -6,9 +6,6 @@ category : Hacking
 
 ---
 
-# Smart Car Hacking
-
-------
 
 -Kangsecu
 
