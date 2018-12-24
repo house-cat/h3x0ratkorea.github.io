@@ -1,5 +1,3 @@
-# ROOT CTF Write-up
-
 ![Rank](http://file.c2w2m2.com/ctf/writeup/2018ROOT/images/rank.png)
 전체   2등
 고등부 1등
